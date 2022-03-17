@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.division {
+    height: 50vh;
+    width:100%;
+    /* background-color: aqua; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+button{
+    height: 25px;
+    width: 50px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color:blueviolet;
+    transition:1s;
+}
+.dv1{
+    /* height: 50vh;
+    width: 50vh; */
+    border: 45%;
+    border-color: aqua;
+}
